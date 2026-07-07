@@ -6,3 +6,7 @@ Daily Spiritual Practice Log
 The iOS app does not collect any user data of any kind. All data stays in your local drive and your personal cloud.
 
 This is just a personal self-improvement tracker.
+
+## Support
+
+Please email cleanlogicmc _at_ gmail.com for support.
